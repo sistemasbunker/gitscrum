@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "laravel/framework": "5.3.*",
+        "laravel/framework": "5.5.*",
         "graham-campbell/github": "^4.4",
         "laravel/socialite": "^2.0",
         "nesbot/carbon": "^1.21",
